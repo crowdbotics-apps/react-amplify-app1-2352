@@ -9,6 +9,11 @@
             "UnauthRoleName": "noteapp-20190418013834-unauthRole",
             "StackName": "noteapp-20190418013834",
             "StackId": "arn:aws:cloudformation:us-east-2:427428871420:stack/noteapp-20190418013834/95a3f5b0-614c-11e9-98eb-0a2103992610"
+        },
+        "categories": {
+            "auth": {
+                "cognitob8c0ff23": {}
+            }
         }
     }
 }
